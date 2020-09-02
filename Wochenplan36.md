@@ -1,9 +1,4 @@
-<!doctype html>
-<html lang="de">
-<head>
-  <meta charset="utf-8">
-  <title>Wochenplan 36 Klasse 3b</title>
-  <meta name="author" content="Dirk">
+
   <meta  name="description" content="Learning content table structure for a week">
   
   <style>
@@ -18,7 +13,6 @@ table th,table td {
   ; margin: 0
   }
   </style>
-</head>
 
 <h1>Wochenplan Klasse 3b</h1>
 <h2>31.08. – 04.09.2020 (Woche 36)</h2>
