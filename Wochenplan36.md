@@ -1,23 +1,10 @@
 
-  <meta  name="description" content="Learning content table structure for a week">
-  
-  <style>
-body {font:100% "Times New Roman"}
-table {
-  ; border:1px solid #333
-  ; border-collapse:collapse
-  ; border-spacing:0}
-table th,table td {
-  ; border:1px solid #333
-  ; padding:.5ex
-  ; margin: 0
-  }
-  </style>
-
+<body style="font:100% "Times New Roman">
+                                        
 <h1>Wochenplan Klasse 3b</h1>
 <h2>31.08. – 04.09.2020 (Woche 36)</h2>
 
-<table>
+<table style="order:1px solid #333; border-collapse:collapse; border-spacing:0">
   <tr>
     <th>Fach
     <th>Aufgaben
@@ -88,3 +75,4 @@ table th,table td {
     <td>PB
     <td>Pusteblume-Buch
 </table>
+  </body>
