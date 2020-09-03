@@ -11,8 +11,8 @@
     <th>erledigt
   <tr>
     <th rowspan="7">Deutsch
-    <td>✓
-    <th>
+    <td>PB Seite 77 Nr. 1, 2, 3, 4<br>Schreibe die Fragen ins Heft ab und beantworte sie.
+    <th>✓
   <tr>
     <td>✓
     <th>
