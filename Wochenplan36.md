@@ -10,17 +10,19 @@
     <th>Aufgaben
     <th>erledigt
   <tr>
-    <th rowspan="7">Deutsch
-    <td>PB Seite 77 Nr. 1, 2, 3, 4<br>Schreibe die Fragen ins Heft ab und beantworte sie.
-    <th>✓
+    <th rowspan="7"> Deutsch
+    <td> PB Seite 77 Nr. 1, 2, 3, 4<br>Schreibe die Fragen ins Heft ab und beantworte sie.
+    <th> ✓
   <tr>
-    <td>✓
+    <td> PB Seite 78 Nr. 1, 2, 3* freiwillig<br>Schreibe die Fragen ins Heft ab und beantworte sie.
     <th>
   <tr>
-    <td>✓
+    <td> LB Lesebuch S. 92 Nr. 1, 2, 3
+      <br> Male eine passende Tabelle in dein Heft
     <th>
   <tr>
-    <td>✓
+    <td> LB Lesebuch S. 129 Nr. 1, 2, 3
+      <br> Sätze richtig ins Heft.
     <th>
   <tr>
     <td>✓
