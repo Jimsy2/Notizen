@@ -5,6 +5,7 @@
 <h2>31.08. – 04.09.2020 (Woche 36)</h2>
 
 <table style="order:1px solid #333; border-collapse:collapse; border-spacing:0">
+ <tbody>
   <tr>
     <th>Fach
     <th>Aufgaben
@@ -24,15 +25,7 @@
     <td> LB Lesebuch S. 129 Nr. 1, 2, 3
       <br> Sätze richtig ins Heft.
     <th>
-  <tr>
-    <td>✓
-    <th>
-  <tr>
-    <td>✓
-    <th>
-  <tr>
-    <td>✓
-    <th>
+ </tbody>
   <tr>
     <th rowspan="2"><i>Mathe</i>
     <td>Dienstag: Seite ✓, Nr. ✓
