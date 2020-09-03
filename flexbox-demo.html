@@ -106,12 +106,6 @@ ein oberflächlich identisches Ergebnis.
 <p>Fügt man zu Beispiel 1.2 in zusätzliches <code>flex-direction:column</code> sorgt für ein zu Beispiel 1.1 identisches Ergebnis.
 <code>row</code> ist der Vorgabewert für <code>flex-direction</code>.
 
-<div>
-  <code>div</code>
-  <nav><code>nav</code> …</nav>
-  <section><code>section</code> …</section>
-  <aside><code>aside</code> …</aside>
-</div>
 <div style="display:flex;flex-direction:column">
   <code>div</code>
   <nav><code>nav</code> …</nav>
@@ -126,6 +120,15 @@ ein oberflächlich identisches Ergebnis.
   <section>Inhalt</section>
   <aside>Weiteres</aside>
 </div>
+
+<h3>4. b) div {…; flex-direction:column;  justify-content: center }</h3>
+<div style="display:flex; flex-direction:column; justify-content: center">
+  <code>div</code>
+  <nav><code>nav</code> …</nav>
+  <section><code>section</code> …</section>
+  <aside><code>aside</code> …</aside>
+</div>
+
 
 <h3>5. div {…; justify-content: space-around }</h3>
 <div style="display:flex; justify-content: space-around">
