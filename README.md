@@ -1,6 +1,7 @@
 Folgende Links zeigen die HTML-Dateien als gerenderte Web-Seiten.
 
  - [Logbuch-Vorlage](https://jimsy2.github.io/HTML5/Logbuch-Vorlage.html) für 2021 (HTML)
+ - [Wochenplan-Muster](https://jimsy2.github.io/HTML5/Wochenplan-Muster.html) 2020 (HTML)  
  - [Wochenplan 35](https://jimsy2.github.io/HTML5/Wochenplan35.html) (HTML)
  - [Wochenplan 34](https://jimsy2.github.io/HTML5/Wochenplan34.html) (HTML)
  - [Stundenplan 34](https://jimsy2.github.io/HTML5/Stundenplan34.html) (HTML)
