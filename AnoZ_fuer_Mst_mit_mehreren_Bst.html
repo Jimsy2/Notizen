@@ -1,0 +1,134 @@
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+table {
+  border-collapse: collapse;
+  margin: 0;
+  border: 2px solid darkgray;
+}
+table thead {
+  border: 2px solid darkgray;
+  background: #ddd;
+}
+table tbody {
+  border: 2px solid darkgray;
+}
+td,
+th {
+  border: 1px solid darkgray;
+  padding: 0.2em 1ex;
+  }
+table.fpln {
+  border: none ;
+  margin: 0;
+  width: 100%;
+}
+table.fpln tbody{
+  border: none ;
+}
+table.fpln td {
+  border: none;
+  min-width: 4rem;
+  text-align: center;
+}
+table.fpln td+td {
+  border-left: 1px dashed darkgray;
+}
+table.fpln tr+tr {
+  border-top: 1px dashed darkgray;
+}
+table.fpln td+td+td+td { 
+  text-align:left;
+  font-size:80%
+  }
+em {
+  font-style:inherit;
+  background: #ffc
+}
+</style>
+<body>
+<table>
+  <thead>
+    <tr>
+      <th colspan=2> Zugnr.
+      <th rowspan=2> Zugg.
+      <th rowspan=2 style="padding:0"> Bst / an / ab / Gleis
+      <th rowspan=2> Richtung
+      <th rowspan=2> Fplo
+      <th rowspan=2> Bermerkungen
+      <th rowspan=2> Hin.
+    <tr>
+      <th>verkehrt
+      <th>fällt&nbsp;aus
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">60345
+      <td>
+      <td style="text-align:center">GC
+      <td style="padding:0">
+        <table class="fpln">
+          <tr>
+            <td>WN
+            <td>&nbsp;
+            <td>21:13
+            <td>🖉&nbsp;
+          <tr>
+            <td>WATR
+            <td>&nbsp;
+            <td>21:25
+            <td>🖉&nbsp;
+          <tr>
+            <td>WSE
+            <td>&nbsp;
+            <td>21:36
+            <td>🖉&nbsp;
+          <tr>
+            <td>WDM
+            <td>21:43
+            <td>21:53
+            <td>🖉&nbsp;
+        </table>
+      <td>WN → WSE<br>Neubrandenbg Gbf <em>→</em> Pieste Wbf Süd</td>
+      <td style="word-wrap: break-word">12263_O_DB Cargo
+      <td>🖉 Bza, Dba, KV, 100&nbsp;km/h, 600&nbsp;t, 470&nbsp;m
+      <td>[1]
+  </tbody>
+  <tbody>
+    <tr>
+      <td style="text-align:center">95281
+      <td>
+      <td style="text-align:center">DGS
+      <td style="padding:0">
+        <table class="fpln">
+          <tr>
+            <td>WDM
+            <td>&nbsp;
+            <td>20:53
+            <td>🖉&nbsp;
+          <tr>
+            <td>WSE
+            <td>&nbsp;
+            <td>21:02
+            <td>🖉&nbsp;
+          <tr>
+            <td>WATR
+            <td>21:15
+            <td>21:46
+            <td>🖉&nbsp;
+          <tr>
+            <td>WN
+            <td>22:02
+            <td>22:02
+            <td>🖉&nbsp;
+        </table>
+      <td>WSE → WN<br>Lancken <em>→</em> Peitz Ost</td>
+      <td style="word-wrap: break-word">0925_95281_O_00
+      <td>🖉 Bza, Dba, KV, 90&nbsp;km/h, 2700&nbsp;t, 410&nbsp;m
+      <td>[0]
+  </tbody>
+</table>
+
+<p>Die Spalte "Bst / an / ab Gleis" ist meine Vorstellung von einer kompakteren Darstellung<br>
+  für Meldestellen mit mehreren zugeordneten Betriebsstellen. 
