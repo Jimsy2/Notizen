@@ -1,6 +1,6 @@
 Folgende Links zeigen die HTML-Dateien als gerenderte Web-Seiten.
- - [Vokabeln](https://jimsy2.github.io/HTML5/docs/Vokabeln.md)
- - [Abkürzungen](https://jimsy2.github.io/HTML5/docs/Abkuerzungen.md)
+ - [Vokabeln](https://jimsy2.github.io/HTML5/docs/Vokabeln.html)
+ - [Abkürzungen](https://jimsy2.github.io/HTML5/docs/Abkuerzungen.html)
  - [Wochenplan-Muster-2](https://jimsy2.github.io/HTML5/Wochenplan-Muster-2.html) 2020 (HTML)  
  - [Wochenplan-Muster](https://jimsy2.github.io/HTML5/Wochenplan-Muster.html) 2020 (HTML)  
  - [Logbuch-Vorlage](https://jimsy2.github.io/HTML5/Logbuch-Vorlage.html) für 2021 (HTML)
