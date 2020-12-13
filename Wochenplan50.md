@@ -1,4 +1,4 @@
-# Wochenplan vom 14.12. ‒ 21.12.20
+<h1>Wochenplan vom 14.12. ‒ 21.12.20</h1>
 
 
 <table>
@@ -68,7 +68,6 @@
 <p>Die Arbeit mit der Antonapp ist freiwillig.<br/>Alle Arbeitsblätter werden als Paket kopiert und beim Abholen der Schulsachen mitgegeben.</p>
 <p>In der Wolke finden Sie auch die Arbeitsmaterialien:</p>
 
-Die Arbeit mit der Antonapp ist freiwillig.  
-Alle Arbeitsblätter werden als Paket kopiert und beim Abholen der Schulsachen mitgegeben.
-
-In der Wolke finden Sie auch die Arbeitsmaterialien: wolke.grundschule-...
+<p>Die Arbeit mit der Antonapp ist freiwillig.  
+<p>Alle Arbeitsblätter werden als Paket kopiert und beim Abholen der Schulsachen mitgegeben.<br>
+In der Wolke finden Sie auch die Arbeitsmaterialien: https://wolke.grundschule-...</p>
