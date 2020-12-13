@@ -1,7 +1,10 @@
 # Wochenplan vom 14.12. ‒ 21.12.20
 
 
-<table><tr><th>Lesen (15 Min.)<td>Mo<td>Di<td>Mi<td>Do<td>Fr<td>Sa<td>So</tr>
+<table>
+ <tbody>
+  <tr><th>Lesen (15 Min.)<td>Mo<td>Di<td>Mi<td>Do<td>Fr<td>Sa<td>So</tr>
+ </tbody>
 </table>
 
 
