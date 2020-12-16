@@ -2,7 +2,7 @@
   @page {
         size: A4;
         }
-  body {
+  body {outline:1px silver;
         width: 210mm;
         height: 297mm;
         padding: 0mm 15mm 15mm 0mm;
@@ -29,11 +29,12 @@
         }
   th[rowspan]+td+td+td,
   td:first-child+td+td {
+      text-align: center;
       color:#36c;
       font-weight:bold;
       }
 </style>
-
+  </head>
 
   <div style="display:flex; flex-direction:column;
             justify-content:center;
@@ -66,8 +67,8 @@
       >
         <thead>
           <tr>
-            <th style="width:6ex">Fach</th>
-            <th>Tag</th>
+            <th style="width:6ex"><ins>Fach</ins></th>
+            <th><ins>Tag</ins></th>
             <th>Aufgaben</th>
             <th>Fertig</th>
             <th>&nbsp;</th>
@@ -86,11 +87,11 @@
             <td>
               LB S. 17 Nr. 1, 2, 3 (trage es deinen Eltern vor) <br>
               Rechtschreibtrainer S.______, S.______ <br>
-              Schreibschrift S.______, S.______ <br>
+              Schreibschrift S. <u>&nbsp; <ins>24</ins> &nbsp;</u>, S. <u>&nbsp; <ins>25</ins> &nbsp;</u> <br>
               AB Wochenaufgabe <ins>(Adjektive)</ins> <br>
               ANTON️ (freiwillig)
             </td>
-            <td>&nbsp;<br>&nbsp;<br>&nbsp;<br>✓<br>✗</td>
+            <td>&nbsp;<br>&nbsp;<br>✓<br>✓<br>✗</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
@@ -101,7 +102,7 @@
               AB Wochenaufgabe <ins>(Sätze mit Winterwörtern)</ins> <br>
               ANTON️ (freiwillig)
             </td>
-            <td>&nbsp;<br>&nbsp;<br>✓</td>
+            <td>&nbsp;<br>✓<br>✓<br>✓</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
@@ -113,7 +114,7 @@
               AB Wochenaufgabe <ins>(Gegenstand beschreiben)</ins> <br>
               ANTON️ (freiwillig)
             </td>
-            <td>&nbsp;<br>&nbsp;<br>✓</td>
+            <td>&nbsp;<br>&nbsp;<br>_<br>✓<br>✓</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
@@ -125,8 +126,8 @@
               AB Wochenaufgabe <ins>(ausmalen/beschreiben)</ins> <br>
               ANTON️ (freiwillig)
             </td>
+            <td>&nbsp;<br>&nbsp;<br>&nbsp;<br>halb</td>
             <td>&nbsp;</td>
-            <td>&nbsp;<br>&nbsp;<br>&nbsp;</td>
           </tr>
           <tr>
             <td>Freitag</td>
