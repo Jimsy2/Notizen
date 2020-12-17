@@ -1,21 +1,21 @@
 <style>
-  @page {
-        size: A4;
-        }
-  body {
-        width: 210mm;
-        height: 297mm;
-        padding: 0mm 15mm 15mm 0mm;
-        font-family: "Comic Sans MS", Courier, Cousine, monospace;
-        line-height: 1.4;
-        }
+  @page { size: A4 }
+  body { width: 210mm;
+         height: 297mm;
+         padding: 0mm 15mm 15mm 0mm;
+         font-family: "Comic Sans MS", Courier, Cousine, monospace;
+         line-height: 1.4;
+       }
   h2    { margin: 0
         }
-  ins   { color: #36c; text-decoration: inherit }
+  table { border-collapse: collapse;
+          border: 1 px solid black;
+        }
   thead, tbody {
         border: 2px solid #555 !important;
         }
-  th,td { padding: 5pt 1ex 2pt }
+  th,td { padding: 5pt 1ex 2pt 
+        }
   th    {
         letter-spacing:1px;
         border: 1px solid black;
@@ -33,6 +33,12 @@
       color:#36c;
       font-weight:bold;
       }
+  u { color:black }
+  u:before { content:"\a0" }
+  u:after { content:"\a0" }
+  ins   { color: #36c;
+          text-decoration: inherit
+        }
 </style>
   </head>
 
@@ -44,7 +50,9 @@
     <div class="flexbox">
       <table
         class="Lesen"
-        style="width:100%;border-collapse:collapse;border:1 px solid black;margin: 2em 0 3em 0"
+        style="
+               border:1 px solid black;
+               margin: 3ex 0 4ex 0"
       >
         <tbody>
           <tr>
@@ -63,8 +71,7 @@
 
     <div>
       <table
-        style="border-collapse:collapse;border:1 px solid black;margin:0 0 1em 0"
-      >
+        style="margin:0 0 1em">
         <thead>
           <tr>
             <th style="width:6ex"><ins>Fach</ins></th>
@@ -86,12 +93,13 @@
             <td>Montag</td>
             <td>
               LB S. 17 Nr. 1, 2, 3 (trage es deinen Eltern vor) <br>
-              Rechtschreibtrainer 3 S.______, S.______ <br>
-              Schreibschrift S. <u>&nbsp; <ins>24</ins> &nbsp;</u>, S. <u>&nbsp; <ins>25</ins> &nbsp;</u> <br>
+              Rechtschreibtrainer 2 &nbsp; S. <u><ins>3</ins></u>, 
+              S. <u><ins>4</ins></u>, S. <u><ins>11</ins></u><br>
+              Schreibschrift &nbsp; S. <u><ins>24</ins></u>, S. <u>&nbsp; <ins>25</ins> &nbsp;</u> <br>
               AB Wochenaufgabe <ins>(Adjektive)</ins> <br>
               ANTON️ (freiwillig)
             </td>
-            <td>&nbsp;<br>&nbsp;<br>✓<br>✓<br>✗</td>
+            <td>&nbsp;<br>✓<br>✓<br>✓<br>✗</td>
             <td>&nbsp;</td>
           </tr>
           <tr>
