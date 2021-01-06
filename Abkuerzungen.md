@@ -7,6 +7,7 @@
 | Dünni     | Mathe-Arbeitsheft
 | HA        | Hausaufgaben (Schularbeiten)
 | LB        | Lesebuch (Pusteblume?)
+| PB        | Pusteblume-Buch
 | QZ        | Quadratzahlen (1&times;1,2x2,3x3,...)
 | OGS       | Offene Ganztagsschule
 | VüM       | Vormittags- und Über-Mittag-Betreuung (OGS)
