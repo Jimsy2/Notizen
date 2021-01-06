@@ -1,6 +1,7 @@
 
 | Abk.      | Bedeutung (Herkunft)
 |:---------:|:-------------------------------------------
+| *	        | Zusatzaufgaben
 | AB        | Arbeitsblatt (Wochenplan/Schularbeiten)
 | Dicki     | Mathebuch
 | Dünni     | Mathe-Arbeitsheft
