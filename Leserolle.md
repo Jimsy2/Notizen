@@ -10,14 +10,13 @@ Für die Leserolle werden gebraucht:
  - Buntstifte
  - Schere für zu große Blätter
  - Klebestift
- 
-1. Für außen bastelt oder malt man dann ein Deckblatt von einem gelesenem Buch (das man auch gut findet ).
 
-   Auf die Papprolle kommt drauf:  
-   Der Titel  
-   Der Autor und Illustrator  
-   Der Verlag  
-   Und Bilder zu dem Buch  
+1. Das Buch, dass Thema der Rolle sein soll, lesen. 😉 
+2. Das Äußere der Papprolle gestaltet man einem Blatt, welches folgende Angaben enthält:
+   - Titel  
+   - Autor und Illustrator  
+   - Verlag  
+   - ein oder mehrere Bilder zum Buch  
  
    **Tipp:**
    Am besten ist es, wenn man zuerst ein Blatt abmisst, sodass es auf die Rolle passt. Danach auf das Blatt malen/schreiben und dann erst kleben.
