@@ -21,7 +21,7 @@ Für die Leserolle werden gebraucht:
    **Tipp:**
    Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
 
-### Die Blätter der Leserolle 
+### Die Blätter der Leserolle ###
 
  - Mind Map
  - Steckbrief Hauptfiguren
@@ -33,7 +33,7 @@ Für die Leserolle werden gebraucht:
  - Anderes Ende schreiben
  - Die wichtigsten 5 Dinge
  - Inhaltsangabe
- 
+
    **Wichtig!** 2 cm Kleberand nicht beschriften.
 
 Am Ende klebt man alle Blätter zusammen, rollt sie ein und steckt sie in die Leserolle.
