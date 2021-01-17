@@ -12,7 +12,7 @@ Für die Leserolle werden gebraucht:
  - Klebestift
 
 1. Das Buch, dass Thema der Rolle sein soll, lesen. 😉 
-2. Das Äußere der Papprolle gestaltet man einem Blatt, welches folgende Angaben enthält:
+2. Das Äußere der Papprolle gestaltet man mit einem Blatt, welches folgende Angaben enthält:
    - Titel  
    - Autor und Illustrator  
    - Verlag  
