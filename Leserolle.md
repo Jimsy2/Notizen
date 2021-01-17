@@ -33,7 +33,7 @@ Für die Leserolle werden gebraucht:
  - Anderes Ende schreiben
  - Die wichtigsten 5 Dinge
  - Inhaltsangabe
-
+ 
    **Wichtig!** 2 cm Kleberand nicht beschriften.
 
 Am Ende klebt man alle Blätter zusammen, rollt sie ein und steckt sie in die Leserolle.
