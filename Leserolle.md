@@ -11,8 +11,10 @@ Für die Leserolle werden gebraucht:
  - Schere für zu große Blätter
  - Klebestift
 
-1. Das Buch, dass Thema der Rolle sein soll, lesen. 😉 
-2. Das Äußere der Papprolle gestaltet man mit einem Blatt, welches folgende Angaben enthält:
+###1. Das Buch, dass Thema der Rolle sein soll, lesen. 😉 
+
+###2. Das Äußere der Papprolle gestaltet man mit einem Blatt, welches folgende Angaben enthält:
+
    - Titel  
    - Autor und Illustrator  
    - Verlag  
@@ -21,4 +23,6 @@ Für die Leserolle werden gebraucht:
    **Tipp:**
    Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
 
-Quelle: https://www.primolo.de/content/gestalten-einer-leserolle
+###3.
+
+Quelle: (www.primolo.de/...)[https://www.primolo.de/content/gestalten-einer-leserolle]
