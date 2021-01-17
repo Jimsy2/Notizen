@@ -1,7 +1,7 @@
 Folgende Links zeigen die HTML-Dateien als gerenderte Web-Seiten.
  - [Abkürzungen](https://jimsy2.github.io/HTML5/Abkuerzungen.html)
  - [Leserolle](https://jimsy2.github.io/HTML5/Leserolle.html)
- - [Wochenplan 01](https://jimsy2.github.io/HTML5/Wochenplan_01-2021.html) 2021 (MD)   
+ - [Wochenplan 01](https://jimsy2.github.io/HTML5/Wochenplan_01-2021.html) 2021    
  - [Wochenplan 50](https://jimsy2.github.io/HTML5/Wochenplan50.html) 2020 (HTML)  
  - [Wochenplan 35](https://jimsy2.github.io/HTML5/Wochenplan35.html) (HTML)
  - [Wochenplan 34](https://jimsy2.github.io/HTML5/Wochenplan34.html) (HTML)
