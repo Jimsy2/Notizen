@@ -1,19 +1,17 @@
 Detail-Infos zu Leserollen
 --------------------------
 
-Eine Leserolle besteht aus selbst gestalteten Blätter, welche die Kinder zusammen kleben, rollen und in eine dafür bemalte und beschriftete Papprolle mit Deckel stecken.
+Eine Leserolle besteht aus einer Reihe gestalteten Blätter, welche die Kinder zu einem langen Band zusammen kleben, rollen und in eine bemalte und beschriftete Papprolle mit Deckel stecken.
 
 Für die Leserolle werden gebraucht:
  - eine Papprolle mit Deckel
  - ein gelesenes Buch
  - weiße A4 Blätter
  - Buntstifte
- - Schere für zu große Blätter
+ - Schere, wenn die Blätter zu breit für die Rolle sind
  - Klebestift
 
-###1. Das Buch, dass Thema der Rolle sein soll, lesen. 😉 
-
-###2. Das Äußere der Papprolle gestaltet man mit einem Blatt, welches folgende Angaben enthält:
+### Das Äußere der Papprolle gestaltet man mit einem Blatt, welches folgende Angaben enthält:
 
    - Titel  
    - Autor und Illustrator  
@@ -23,6 +21,21 @@ Für die Leserolle werden gebraucht:
    **Tipp:**
    Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
 
-###3.
+### Die Blätter der Leserolle 
 
-Quelle: (www.primolo.de/...)[https://www.primolo.de/content/gestalten-einer-leserolle]
+ - Mind Map
+ - Steckbrief Hauptfiguren
+ - Landkarte
+ - Brief an eine Person des Buches
+ - Buchkritik
+ - Textstelle abschreiben
+ - Abcdarium
+ - Anderes Ende schreiben
+ - Die wichtigsten 5 Dinge
+ - Inhaltsangabe
+
+   **Wichtig!** 2 cm Kleberand nicht beschriften.
+
+Am Ende klebt man alle Blätter zusammen, rollt sie ein und steckt sie in die Leserolle.
+
+Quelle: [www.primolo.de/...](https://www.primolo.de/content/gestalten-einer-leserolle)
