@@ -19,6 +19,6 @@ Für die Leserolle werden gebraucht:
    - ein oder mehrere Bilder zum Buch  
  
    **Tipp:**
-   Am besten ist es, wenn man zuerst ein Blatt abmisst, sodass es auf die Rolle passt. Danach auf das Blatt malen/schreiben und dann erst kleben.
+   Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
 
 Quelle: https://www.primolo.de/content/gestalten-einer-leserolle
