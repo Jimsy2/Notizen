@@ -19,20 +19,22 @@ Für die Leserolle werden gebraucht:
    - ein oder mehrere Bilder zum Buch  
  
    **Tipp:**
-   Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
+   Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, 
+   danach auf dieses Blatt malen/schreiben und abschließend auf die Rolle kleben.
 
 ### Die Blätter der Leserolle ###
 
- - Mind Map
- - Steckbrief Hauptfiguren
- - Landkarte
- - Brief an eine Person des Buches
- - Buchkritik
- - Textstelle abschreiben
- - Abcdarium
- - Anderes Ende schreiben
- - Die wichtigsten 5 Dinge
- - Inhaltsangabe
+Mögliche Inhalte:
+ - Mind Map  
+ - Steckbrief Hauptfiguren  
+ - Landkarte  
+ - Brief an eine Person des Buches  
+ - Buchkritik  
+ - Textstelle abschreiben  
+ - Abcdarium  
+ - Anderes Ende schreiben  
+ - Die wichtigsten 5 Dinge  
+ - Inhaltsangabe  
 
    **Wichtig!** 2 cm Kleberand nicht beschriften.
 
