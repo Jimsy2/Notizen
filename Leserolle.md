@@ -25,16 +25,11 @@ Für die Leserolle werden gebraucht:
 ### Inhalt der Leserolle
 
 Mögliche Inhalte:
-  - Mind Map  
-  - Steckbrief Hauptfiguren  
-  - Landkarte  
-  - Brief an eine Person des Buches  
-  - Buchkritik  
-  - Textstelle abschreiben  
-  - Abcdarium  
-  - Anderes Ende schreiben  
+  - Buchsteckbrief  
   - Die wichtigsten 5 Dinge  
-  - Inhaltsangabe  
+  - Steckbrief Hauptfiguren  
+  - Abcdarium  
+  - ...  
 
    **Wichtig!** 2 cm Kleberand nicht beschriften.
 
