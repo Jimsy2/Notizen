@@ -1,5 +1,5 @@
-Detail-Infos zu Leserollen
---------------------------
+Leserollen
+----------
 
 Eine Leserolle besteht aus einer Reihe gestalteten Blätter, welche die Kinder zu einem langen Band zusammen kleben, rollen und in eine bemalte und beschriftete Papprolle mit Deckel stecken.
 
