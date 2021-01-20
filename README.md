@@ -12,9 +12,9 @@ Folgende Links zeigen die MD- und HTML-Dateien als gerenderte Web-Seiten.
  - [Logbuch-Vorlage](https://jimsy2.github.io/Notizen/Logbuch-Vorlage.html) für 2021 (HTML)
 ---
  
- - [HTML5 Flexbox-Demo](https://jimsy2.github.io/HTML5/flexbox-demo.html)
- - [TABLE Abfahrtstafel](https://jimsy2.github.io/HTML5/Abfahrtstafel_Lage.html)
- - [TABLE Abfahrtstafel neu](https://jimsy2.github.io/HTML5/Abfahrt_Lage_2018.html)
+ - [HTML5 Flexbox-Demo](https://jimsy2.github.io/Notizen/flexbox-demo.html)
+ - [TABLE Abfahrtstafel](https://jimsy2.github.io/Notizen/Abfahrtstafel_Lage.html)
+ - [TABLE Abfahrtstafel neu](https://jimsy2.github.io/Notizen/Abfahrt_Lage_2018.html)
  
-Alle HTML-Dateien können als Web-Seiten unter [github.com/Jimsy2/HTML5](https://github.com/Jimsy2/HTML5/) bearbeitet werden.
+Alle HTML-Dateien können als Web-Seiten unter [github.com/Jimsy2/Notizen](https://github.com/Jimsy2/Notizen/) bearbeitet werden.
 
