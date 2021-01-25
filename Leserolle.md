@@ -17,6 +17,7 @@ Für die Leserolle werden gebraucht:
    - Autor und Illustrator  
    - Verlag  
    - ein oder mehrere Bilder zum Buch  
+   - <ins>Name des Kindes</ins>
  
    **Tipp:**
    Erst ein Blatt passender Größe für das Äußere der Rolle fertigen, 
@@ -25,10 +26,19 @@ Für die Leserolle werden gebraucht:
 ### Inhalt der Leserolle
 
 Mögliche Inhalte:
-  - Buchsteckbrief  
+  - Titelblatt "Meine Leserolle" (1)  
+  - Buchsteckbrief (5)  
+  - Erste Gedanken zur Geschichte (6)  
   - Die wichtigsten 5 Dinge  
-  - Steckbrief Hauptfiguren  
-  - Abcdarium  
+  - Unbekannte Wörter (19)
+  - Steckbrief der Hauptfigur(en)  
+  - Abecedearium  
+  - Die wichtigen Fünf
+  - Gefühle (27)
+  - Das Leben im Buch / Mein Leben (38)
+  - Handlung in Bildern (15)
+  - Neues Titelbild zum Buch
+  - Welche Figur aus dem Buch wärst du gerne?
   - ...  
 
    **Wichtig!** 2 cm Kleberand nicht beschriften.
