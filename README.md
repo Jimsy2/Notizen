@@ -5,7 +5,7 @@ Folgende Links zeigen die MD- und HTML-Dateien als gerenderte Web-Seiten.
  - [Wochenplan 50](https://jimsy2.github.io/Notizen/Wochenplan50.html) 2020 (HTML)  
  - [Wochenplan 35](https://jimsy2.github.io/Notizen/Wochenplan35.html) (HTML)
  - [Wochenplan 34](https://jimsy2.github.io/Notizen/Wochenplan34.html) (HTML)
- - [Stundenplan 3b](https://jimsy2.github.io/Notizen/Stundenplan34.html) (HTML)
+ - [Stundenplan 3b](https://jimsy2.github.io/Notizen/Stundenplan_3b.html) (HTML)
  - [Texte](https://jimsy2.github.io/Notizen/Texte.html) (HTML)
  - [Wochenplan-Muster-2](https://jimsy2.github.io/Notizen/Wochenplan-Muster-2.html) 2020 (HTML)  
  - [Wochenplan-Muster](https://jimsy2.github.io/Notizen/Wochenplan-Muster.html) 2020 (HTML)  
