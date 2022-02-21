@@ -1,3 +1,12 @@
+<dl>
+<dt> Was? <dd> Ein Junge auf einem Roller wurde von einem Auto angefahren.
+<dt> Wo? <dd> Auf der Bergstraße.
+<dt> Wer? <dd> Ein Junge, das Mädchen Mia und ein Auto waren beteiligt.
+<dt> Wann? <dd> 24.06.2021, mittags
+<dt> Warum/wie? <dd> Weil der Junge und Mia die Fahrbahn nutzen und der der Junge von hinten angefahren.
+<dt> Welche Folgen? <dd> Der Junge hatte eine Platzwunde über dem rechten Auge. Er, Mia und eine Frau hatten einen leichten Schock. Der Sachschaden betrug 1200€ 
+</dl>
+
 Am 24.06.2021 fuhren ein Junge und ein Mädchen, an ihrem letzten Schultag,  
 mit Rollern die Bergstraße herunter. Sie nutzten die Fahrbahn, obwohl dies  
 nicht erlaubt ist. Sie bemerkten ein sich von hinten näherndes Auto nicht.  
