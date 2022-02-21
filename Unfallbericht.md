@@ -4,7 +4,8 @@
 <dt> Wer? <dd> Ein Junge, das Mädchen Mia und ein Auto waren beteiligt.
 <dt> Wann? <dd> 24.06.2021, mittags
 <dt> Warum/wie? <dd> Weil die Kinder die Fahrbahn nutzten, wurde der Junge von hinten angefahren.
-<dt> Welche Folgen? <dd> Der Junge hatte eine Platzwunde über dem rechten Auge. Er, Mia und eine Frau hatten einen leichten Schock. Der Sachschaden betrug 1200 €. 
+<dt> Welche Folgen? <dd> Der Junge hatte eine Platzwunde über dem rechten Auge.  
+Er, Mia und eine Frau hatten einen leichten Schock. Der Sachschaden betrug 1200 €. 
 </dl>
 
 Am 24.06.2021 fuhren ein Junge und ein Mädchen, an ihrem letzten Schultag,  
