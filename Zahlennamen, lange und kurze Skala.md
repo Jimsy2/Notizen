@@ -156,4 +156,4 @@
 <td style="text-align:center;">Yotta
 </td></tr></tbody></table>
 
-Quelle: de.wikipedia.org
+Quelle: [de.wikipedia.org](https://de.wikipedia.org/wiki/Lange_und_kurze_Skala)
