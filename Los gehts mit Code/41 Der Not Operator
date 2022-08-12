@@ -1,0 +1,39 @@
+/*
+ while !isBlocked {
+moveForward()
+if isOnGem {
+    collectGem()
+} else {
+    turnLeft()
+    moveForward()
+    jump()
+    collectGem()
+    turnLeft();turnLeft()
+    jump()
+    moveForward()
+    turnLeft()
+}
+} 
+*/
+
+
+
+
+
+ for i in 1 ... 4 {
+    moveForward()
+    if isOnGem{collectGem()}
+    turnLeft()
+    if !isBlocked {
+        move2()
+        collectGem()
+        turnLeft(); turnLeft()
+        move2()
+        turnLeft()} else {
+            turnRight()}
+}
+func move2() {
+    moveForward()
+    jump()
+ }
+ 
